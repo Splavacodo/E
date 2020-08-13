@@ -21,7 +21,6 @@ public class Player : MonoBehaviour
     CapsuleCollider2D myBodyCollider2D;
     BoxCollider2D myFeet; 
 
-    // Start is called before the first frame update
     void Start()
     {
         rigidBody = GetComponent<Rigidbody2D>();
@@ -31,7 +30,6 @@ public class Player : MonoBehaviour
         numCurrentJumps = numExtraJumps; 
     }
 
-    // Update is called once per frame
     void Update()
     {
         if (!isAlive)
