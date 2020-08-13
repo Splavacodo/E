@@ -26,7 +26,6 @@ public class GameSession : MonoBehaviour
         }
     }
 
-    // Start is called before the first frame update
     void Start()
     {
         livesText.text = playerLives.ToString();
