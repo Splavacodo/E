@@ -1,6 +1,6 @@
 E
 
-First and foremost the assets used in this game are not made by me, they belong to the alias Pixel Frog. The assets are free but I thought I would credit and make sure to leave the link here as well: https://pixel-frog.itch.io/pixel-adventure-1?download. 
+First and foremost the assets used in this game are not made by me, they belong to the alias Pixel Frog. The assets are free but I thought I would credit and make sure to leave the link here as well: https://pixelfrog-assets.itch.io/pixel-adventure-1. 
 
 E is meant to be a 2D platformer that focuses on a pressured playing experience. As the player progresses there is the introduction of mud which rises while the player travles upwards past obstacles to collect a trohpy which is at the end of each level. The game doesn't have everything I would like for it to have in terms of the variety of hazards and a better playing experience, but the functionality is all there for further expansion. 
 
